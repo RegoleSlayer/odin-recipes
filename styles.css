@@ -1,0 +1,33 @@
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    color: rgb(232, 94, 94);
+    background-color: rgb(255, 236, 114);
+    text-align: center;
+}
+
+.pages {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+img {
+    height:auto;
+    width: 500px;    
+}
+
+.description {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.steps {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+* {
+    background-color: rgb(122, 204, 255);
+}
